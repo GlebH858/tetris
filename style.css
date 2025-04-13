@@ -8,18 +8,3 @@ img {
 .tertis{
    width:450px; 
 }
-body{
-    padding: 50px 100px;
-    font-family: sans-serif;
-    font-size: 22px;
-    font-weight: bold;
-}
-.item{
-    border: 2px solid rgb(77, 77, 77);
-    background-color: rgb(9, 188, 131);
-    color: rgb(255, 255, 255);
-}
-.box{
-    display: grid;
-    grid-template-columns: 200px 300px 15% ;
-}
